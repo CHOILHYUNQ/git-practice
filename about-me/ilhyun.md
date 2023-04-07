@@ -1,4 +1,4 @@
 
 ## About Me
-- Name: YeonSeong Hwang
-- Github: https://github.com/yeonns
+- Name: ilhyun cho
+- Github: https://github.com/CHOILHYUNQ
